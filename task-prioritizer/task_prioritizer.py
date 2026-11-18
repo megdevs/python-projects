@@ -1,4 +1,4 @@
-"""Generate a markdown onboarding checklist for a new hire."""
+"""Collect tasks and generate a prioritized Markdown task report."""
 from datetime import datetime
 from pathlib import Path
 
