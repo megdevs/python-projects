@@ -1,0 +1,10 @@
+employee_id,name,email,department
+E001, Avery Example ,AVERY@example.com,ops
+E002,Jordan Sample,jordan@example.com,HR
+E001,Avery Example,avery@example.com,Operations
+E003,Casey Demo,,engineering
+E004,Morgan Fiction,morgan@example.com,Marketing
+E005,,riley@example.com,Sales
+E006,Taylor Example,taylor@example.com,People Ops
+E002,Jordan Sample,jordan.new@example.com,People Operations
+,Alex Demo,alex@example.com,ops

@@ -1,0 +1,6 @@
+record,employee_id,issue
+4,E001,Exact duplicate after normalization; removed
+5,E003,Missing required fields: email
+7,E005,Missing required fields: name
+9,E002,Conflicting duplicate ID; removed; review source
+10,,Missing required fields: employee_id
